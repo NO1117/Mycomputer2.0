@@ -1,0 +1,9 @@
+F:\程序设计学习\Visual Studio 2015\Project\Mycomputer2.0\Mycomputer2.0\bin\Debug\Mycomputer2.0.exe.config
+F:\程序设计学习\Visual Studio 2015\Project\Mycomputer2.0\Mycomputer2.0\bin\Debug\Mycomputer2.0.exe
+F:\程序设计学习\Visual Studio 2015\Project\Mycomputer2.0\Mycomputer2.0\bin\Debug\Mycomputer2.0.pdb
+F:\程序设计学习\Visual Studio 2015\Project\Mycomputer2.0\Mycomputer2.0\obj\Debug\Mycomputer2.0.csprojResolveAssemblyReference.cache
+F:\程序设计学习\Visual Studio 2015\Project\Mycomputer2.0\Mycomputer2.0\obj\Debug\Mycomputer2._0.frmcs.resources
+F:\程序设计学习\Visual Studio 2015\Project\Mycomputer2.0\Mycomputer2.0\obj\Debug\Mycomputer2._0.Properties.Resources.resources
+F:\程序设计学习\Visual Studio 2015\Project\Mycomputer2.0\Mycomputer2.0\obj\Debug\Mycomputer2.0.csproj.GenerateResource.Cache
+F:\程序设计学习\Visual Studio 2015\Project\Mycomputer2.0\Mycomputer2.0\obj\Debug\Mycomputer2.0.exe
+F:\程序设计学习\Visual Studio 2015\Project\Mycomputer2.0\Mycomputer2.0\obj\Debug\Mycomputer2.0.pdb
